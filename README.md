@@ -15,8 +15,8 @@ Hi,
 I am a passionate Cybersecurity analyst and network engineer working with Kali Linux and its tools.
 Cyber Security Specialists are responsible for discovering vulnerabilities and risks in networks, software systems and data centers with ongoing vulnerability scans, monitoring network data, and ensuring hardware and software applications are updated.
 
-**Major Stack:**  
-<code><img height="20" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/laravel.png"></code>
+
+<code><img height="20" src="https://www.pngall.com/wp-content/uploads/4/Cyber-Security-Logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -31,7 +31,7 @@ Cyber Security Specialists are responsible for discovering vulnerabilities and r
 
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Shell-informational?style=flat&logo=shell&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=HTML&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Kali_Tools-information?style=flat&logo=kalilinux&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
