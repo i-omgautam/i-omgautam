@@ -3,8 +3,7 @@
 
 <a href = "https://www.linkedin.com/in/i-omgautam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="#"><img width="40%" height="auto" src="https://media4.giphy.com/media/dWTi2yiBnSq1K2MkTE/giphy.gif" height="40px"/></a>
-<h1 align="left"> <width="10px"> Hello, I am Om Gautam</h1>
-<h3 align="center">I'm a passionate Cybersecurity Practitioner from India.</h3>
+<h1 align="left"> <width="10px"> Hello, I am Om Gautam</h1><h3>I'm a passionate Cybersecurity Practitioner from India.</h3>
 
 
 
