@@ -43,7 +43,7 @@ CSS          14 mins         ▒░░░░░░░░░░░░░░░░
 
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Tools-Kali_Linux?style=flat&logo=kalilinux&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Tools-Kali_Linux-information?style=flat&logo=kalilinux&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
