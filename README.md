@@ -1,6 +1,14 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=black-wyvern-dev.black-wyvern-dev)
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/i-omgautam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  
 <br />
 
 Hi, 
