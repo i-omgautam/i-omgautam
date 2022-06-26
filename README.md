@@ -3,7 +3,7 @@
 
 <a href = "https://www.linkedin.com/in/i-omgautam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <p align="left"> 
-<a href="#"><img width="50%" height="auto" src="https://pin.it/5TY6kuw" height="80px"/></a>
+<a href="#"><img width="50%" height="auto" src="https://pin.it/1vepi07" height="80px"/></a>
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, Hello, I am Om Gautam</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
