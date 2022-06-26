@@ -26,30 +26,30 @@ Cyber Security Specialists are responsible for discovering vulnerabilities and r
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JSX          14 hrs 32 mins  ███████████████             60.55 % 
-JavaScript   8 hr 38 mins    █████████░░░░░░░░░░░░░░░░   35.96 % 
-JSON         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-```
-<!--END_SECTION:waka-->
-
-
-
 ## Main Skill
 
 
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Shell-informational?style=flat&logo=shell&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Tools-Kali_Linux-information?style=flat&logo=kalilinux&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Tools-Kali_Tools-information?style=flat&logo=kalilinux&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-Hive_QL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)  
+  
+📊 **I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Python       2 hrs 30 mins   ███████████████             27.5 % 
+Kali Linux   3 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   38.9 % 
+Database     2 hrs           █████████░░░░░░░░░░░░░░░░   22.2 %
+HTML         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   06.6 % 
+CSS          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   04.5 %      
+```
+<!--END_SECTION:waka-->
 
 
 
@@ -60,6 +60,6 @@ CSS          14 mins         ▒░░░░░░░░░░░░░░░░
 📈 My GitHub Stats
 <p>
 <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=eliben&show_icons=true&hide_border=true&theme=dark&hide_title=true" >
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=black-wyvern-dev&layout=compact&theme=monokai&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-omgautam-dev&layout=compact&theme=monokai&count_private=true">
 </p>
 
