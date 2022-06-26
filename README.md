@@ -2,9 +2,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/i-omgautam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  
-<a href="#"><img width="50%" height="auto" src="https://user-images.githubusercontent.com/92586638/175822286-30e39b27-11a0-4a06-9104-2091a4bec3cc.png" height="80px"/></a>
-<a href="#"><img width="50%" height="auto" src="https://www.pngall.com/wp-content/uploads/3/Hacker-Word.png" height="40px"/></a>
+<p align="left"> 
+<a href="#"><img width="50%" height="auto" src="https://ibb.co/g37D6n6" height="80px"/></a>
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, Hello, I am Om Gautam</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
