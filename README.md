@@ -2,9 +2,9 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/i-omgautam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-<h1 align="center"> <img src="https://media4.giphy.com/media/dWTi2yiBnSq1K2MkTE/giphy.gif" width="10px"> Hello, I am Om Gautam</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<a href="#"><img width="50%" height="auto" src="https://media4.giphy.com/media/dWTi2yiBnSq1K2MkTE/giphy.gif" height="50px"/></a>
+<h1 align="left"> <width="10px"> Hello, I am Om Gautam</h1>
+<h3 align="center">I'm a passionate Cybersecurity Practitioner from India.</h3>
 
 
 
