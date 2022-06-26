@@ -2,8 +2,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/i-omgautam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<p align="left"> 
-<a href="#"><img width="50%" height="auto" src="https://www.pngall.com/wp-content/uploads/3/Hacker-PNG-High-Quality-Image.png" height="50px"/></a>
 
 <h1 align="center"> <img src="https://media4.giphy.com/media/dWTi2yiBnSq1K2MkTE/giphy.gif" width="10px"> Hello, I am Om Gautam</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
@@ -12,10 +10,11 @@
 
   
 <br />
-
+<p align="left"> 
+<a href="#"><img width="50%" height="auto" src="https://www.pngall.com/wp-content/uploads/3/Hacker-PNG-High-Quality-Image.png" height="50px"/></a>
 Hi, 
-I am a passionate full-stack developer working with React and Vue for frontend, and Laravel and Node for backend mainly.
-As I work as a full-stack developer, I like to dream up entire logic for various requirements and make them be realistic with awesome interfaces. I mainly take my efforts to get experience in many fields of web technologies and implement high quality codes.
+I am a passionate Cybersecurity analyst and network engineer working with Kali Linux and its tools.
+Cyber Security Specialists are responsible for discovering vulnerabilities and risks in networks, software systems and data centers with ongoing vulnerability scans, monitoring network data, and ensuring hardware and software applications are updated.
 
 **Major Stack:**  
 <code><img height="20" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/laravel.png"></code>
