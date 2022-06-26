@@ -3,7 +3,7 @@
 
 <a href = "https://www.linkedin.com/in/i-omgautam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="#"><img width="40%" height="auto" src="https://media4.giphy.com/media/dWTi2yiBnSq1K2MkTE/giphy.gif" height="40px"/></a>
-<h1 align="left"> <width="10px"> Hello, I am Om Gautam</h1><h3>I'm a passionate Cybersecurity Practitioner from India.</h3>
+<h1 align="centre"> <width="10px"> Hello, I am Om Gautam</h1><h3>I'm a passionate Cybersecurity Practitioner from India.</h3>
 
 
 
@@ -17,7 +17,7 @@ Cyber Security Specialists are responsible for discovering vulnerabilities and r
 
 
 <code><img height="20" src="https://www.pngall.com/wp-content/uploads/4/Cyber-Security-Logo.png"></code>
-<code><img height="20" src="https://freepngimg.com/thumb/logo/69605-kali-brand-balvano-mossa-black-linux-logo.png"></code>
+<code><img height="20" src="https://image.pngaaa.com/700/562700-middle.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
