@@ -42,8 +42,8 @@ Cyber Security Specialists are responsible for discovering vulnerabilities and r
 Python       2 hrs 30 mins   ███████████            
 Kali Linux   3 hrs 30 mins   ████████████████ 
 Database     2 hrs           █████████   
-HTML         40 mins         ████
-CSS          20 mins         ██       
+HTML/ CSS    40 mins         ████
+Shell        20 mins         ██       
 ```
 <!--END_SECTION:waka-->
 
