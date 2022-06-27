@@ -30,7 +30,7 @@ Cyber Security Specialists are responsible for discovering vulnerabilities and r
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=HTML&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Kali_Tools-information?style=flat&logo=kalilinux&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=googlecloud&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-Hive_QL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
