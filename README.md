@@ -12,7 +12,7 @@
 <p align="left"> 
 <a href="#"><img width="30%" height="auto" src="https://www.pngall.com/wp-content/uploads/3/Hacker-PNG-High-Quality-Image.png" height="30px"/></a>
 Hi, 
-I am a passionate Cybersecurity analyst and network engineer working with Kali Linux and its tools.
+I am a passionate Cybersecurity practitioner and network engineer working with Kali Linux and its tools.
 Cyber Security Specialists are responsible for discovering vulnerabilities and risks in networks, software systems and data centers with ongoing vulnerability scans, monitoring network data, and ensuring hardware and software applications are updated.
 
 
